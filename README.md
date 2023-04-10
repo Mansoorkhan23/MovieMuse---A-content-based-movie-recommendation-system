@@ -1,4 +1,4 @@
-# MovieMuse ---A-content-based-movie-recommendation-system
+# MovieMuse --A-content-based-movie-recommendation-system
 
 This repository contains my project, "Content-Based Movie Recommendation System". This project is developed using Python and the TMDB database, and is designed to recommend top 5 movies based on a user-selected movie using cosine similarity. 
 
